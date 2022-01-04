@@ -1,0 +1,14 @@
+E:\File\Project\Final_report\Final_report\bin\Debug\Final_report.exe.config
+E:\File\Project\Final_report\Final_report\bin\Debug\Final_report.exe
+E:\File\Project\Final_report\Final_report\bin\Debug\Final_report.pdb
+E:\File\Project\Final_report\Final_report\obj\Debug\Final_report.csproj.CoreCompileInputs.cache
+E:\File\Project\Final_report\Final_report\obj\Debug\Final_report.exe
+E:\File\Project\Final_report\Final_report\obj\Debug\Final_report.pdb
+E:\File\Project\Final_report\Final_report\obj\Debug\Final_report.csprojAssemblyReference.cache
+E:\File\Project\學校\大學\基礎程式\Final_report\Final_report\bin\Debug\Final_report.exe.config
+E:\File\Project\學校\大學\基礎程式\Final_report\Final_report\bin\Debug\Final_report.exe
+E:\File\Project\學校\大學\基礎程式\Final_report\Final_report\bin\Debug\Final_report.pdb
+E:\File\Project\學校\大學\基礎程式\Final_report\Final_report\obj\Debug\Final_report.csprojAssemblyReference.cache
+E:\File\Project\學校\大學\基礎程式\Final_report\Final_report\obj\Debug\Final_report.csproj.CoreCompileInputs.cache
+E:\File\Project\學校\大學\基礎程式\Final_report\Final_report\obj\Debug\Final_report.exe
+E:\File\Project\學校\大學\基礎程式\Final_report\Final_report\obj\Debug\Final_report.pdb
